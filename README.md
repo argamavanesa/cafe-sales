@@ -16,8 +16,7 @@
 ---
 
 ##  Dashboard
-![Dashboard Overview](images/preview.png)
-![Dashboard Overview](images/customers.png)
+![Dashboard Overview](images/dashboard-preview.png)
 
 ---
 
