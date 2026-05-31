@@ -21,9 +21,9 @@
 ---
 
 ## Business Insights
-* **Insight 1:** xxxx
-* **Insight 2:** xxxx
-* **Insight 1:** xxxx
+* **Revenue By Items:**  *Salad* merupakan menu dengan kontribusi revenue tertinggi, diikuti oleh *sandwich* dan *smoothie*, sementara *cookie* menjadi menu dengan kontribusi terendah dengan selisih total revenue terhadap *salad* sebesar 12.11K. Pola ini mengindikasikan bahwa menu berbasis makanan sehat secara konsisten mendominasi penjualan. Di sisi lain, rendahnya kontribusi *cookie* mengindikasikan perlunya *pricing strategy* atau promosi untuk mendorong penjualan item dengan performa rendah.
+* **Tren Performa Bulanan:** Secara keseluruhan, revenue dan volume penjualan (items sold) menunjukkan pola yang relatif linear sepanjang tahun 2023. Namun, terdapat anomali pada Juli–Agustus 2023, di mana revenue mengalami penurunan sementara volume penjualan meningkat. Hal ini mengindikasikan adanya pergeseran preferensi pelanggan ke menu dengan harga lebih rendah pada periode tersebut, bukan penurunan minat beli secara keseluruhan.
+* **Unknown Values:** Ditemukan sejumlah transaksi dengan nilai Unknown pada kolom item maupun payment method, yang kemungkinan disebabkan oleh human error dalam proses input data maupun kesalahan teknis pada sistem pencatatan. Kondisi ini merupakan catatan serius, mengingat data yang tidak lengkap berpotensi mengurangi akurasi analisis dan keandalan insight yang dihasilkan ke depannya.
 
 ---
 
